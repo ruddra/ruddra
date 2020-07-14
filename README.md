@@ -1,4 +1,4 @@
-<h2 align="center">Arnab Kumar Shil</h2>
+<h2 align="center">ARNAB KUMAR SHIL</h2>
 <h4 align="center">Full Stack Developer</h4>
 <h5 align="center">Tech Stack</h5>
 <p align="center">Python, Django, JavaScript, React, Docker</p>
@@ -10,5 +10,3 @@
 	<a href="https://twitter.com/ruddraarnab"><img src="https://img.shields.io/twitter/follow/ruddra?label=Twitter&style=social" alt="Twitter"></a>
     <a href="https://stackoverflow.com/users/2696165/ruddra"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2696165?label=stackoverflow&style=plastic" alt="Stackoverflow"></a>
 </p>
-
-<p align="center">Currently working as Senior Software Engineer at Cefalo Bangladesh Ltd.</p>
