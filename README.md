@@ -11,4 +11,4 @@
     <a href="https://stackoverflow.com/users/2696165/ruddra"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2696165?label=stackoverflow&style=plastic" alt="Stackoverflow"></a>
 </p>
 
-<p align="center">Personal website: https://ruddra.com. Currently working as Senior Software Engineer at Cefalo Bangladesh Ltd.</p>
+<p align="center">Currently working as Senior Software Engineer at Cefalo Bangladesh Ltd.</p>
