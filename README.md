@@ -1,6 +1,6 @@
 <h1 align="center">ARNAB KUMAR SHIL</h1>
-<h4 align="center">Full Stack Developer</h4>
-<h5 align="center">Tech Stack</h5>
+<h2 align="center">Full Stack Developer</h2>
+<h4 align="center">Tech Stack</h4>
 <p align="center">Python, Django, JavaScript, React, Docker</p>
 <p align="center">Hugo, Github, AWS [<em>EC2, S3, CodeBuild</em>], OpenShift.</p>
 <p align="center">Personal website: https://ruddra.com.</p>
