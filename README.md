@@ -1,5 +1,5 @@
 <h1 align="center">ARNAB KUMAR SHIL</h1>
-<h2 align="center">Full Stack Developer</h2>
+<h3 align="center">Full Stack Developer</h3>
 <h4 align="center">Tech Stack</h4>
 <p align="center">Python, Django, JavaScript, React, Docker</p>
 <p align="center">Hugo, Github, AWS [<em>EC2, S3, CodeBuild</em>], OpenShift.</p>
