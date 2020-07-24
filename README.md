@@ -1,4 +1,3 @@
-<h1 align="center">ARNAB KUMAR SHIL</h1>
 <h3 align="center">Full Stack Developer</h3>
 <h4 align="center">Tech Stack</h4>
 <p align="center">Python, Django, JavaScript, React, Docker</p>
