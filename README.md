@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Hi! I am Arnab, a Full Stack Developer</h3>
 <h4 align="center">Tech Stack</h4>
 <p align="center">Python, Django, JavaScript, React, Docker</p>
 <p align="center">Hugo, Github, AWS [<em>EC2, S3, CodeBuild</em>], OpenShift.</p>
