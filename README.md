@@ -1,7 +1,4 @@
 <h3 align="center">Hi! I am Arnab, a full stack developer</h3>
-<h4 align="center">Tech Stack</h4>
-<p align="center">Python, Django, JavaScript, React, Docker</p>
-<p align="center">Hugo, GitHub Actions, AWS [<em>EC2, S3, CodeBuild</em>], OpenShift.</p>
 <p align="center">Personal website: https://ruddra.com.</p>
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
