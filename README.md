@@ -10,7 +10,6 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ruddra&theme=onedark&hide_border=true">
 </p>
 <p align="center">
-	<a href="https://github.com/ruddra"><img src="https://img.shields.io/github/followers/ruddra.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/ruddraarnab"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://twitter.com/ruddraarnab"><img src="https://img.shields.io/twitter/follow/ruddra?label=Twitter&style=social" alt="Twitter"></a>
     <a href="https://stackoverflow.com/users/2696165/ruddra"><img src="https://img.shields.io/stackexchange/stackoverflow/r/2696165?label=stackoverflow&style=plastic" alt="Stackoverflow"></a>
