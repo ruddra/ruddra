@@ -1,5 +1,5 @@
 <h3 align="center">Hi! I am Arnab, a full stack developer</h3>
-<p align="center">About me: https://ruddra.com/about.</p>
+<p align="center">About me: https://ruddra.com/about/.</p>
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=ruddra&show_icons=true&theme=onedark&count_private=true">
