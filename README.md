@@ -1,4 +1,4 @@
-<h3 align="center">Hi! I am Arnab, a full stack developer</h3>
+<h3 align="center">Hi! I am Arnab</h3>
 <p align="center">About me: https://ruddra.com/about/.</p>
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
